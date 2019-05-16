@@ -4,6 +4,7 @@ the git-beginner
 never gonna git you hub
 never gonna merge you down
 
+
 1. В $_GET['a'] содержится целое число.
 	1.1 Определить в нём количество цифр 5
 	1.2 Определить в нём наибольшую цифру
